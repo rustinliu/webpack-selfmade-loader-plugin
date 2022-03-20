@@ -1,0 +1,21 @@
+{
+    "name": "clear-output-plugin",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "clear",
+        "output",
+        "plugin",
+        "webpack"
+    ],
+    "author": "rustin",
+    "license": "ISC",
+    "devDependencies": {
+        "del": "^6.0.0",
+        "schema-utils": "^4.0.0"
+    }
+}

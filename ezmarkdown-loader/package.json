@@ -1,0 +1,22 @@
+{
+    "name": "ezmarkdown-loader",
+    "version": "1.0.0",
+    "description": "一个基于markdown-it的webpack loader",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "markdown",
+        "markdown-loader",
+        "loader",
+        "webpack"
+    ],
+    "author": "rustin",
+    "license": "ISC",
+    "devDependencies": {
+        "loader-utils": "^3.2.0",
+        "markdown-it": "^12.3.2",
+        "schema-utils": "^4.0.0"
+    }
+}
